@@ -23,3 +23,18 @@
 
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=AryDalex&show_icons=true&theme=gotham" alt="AryDalex" style="width:60%;height:auto;"/>
+
+<h2>Programming Languages!
+ ---
+
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="25"> https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white
+  
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="25"> 
+  
+---
+ <h2>Tools!
+  <img src="https://camo.githubusercontent.com/e9141be13e6bea8c50af6d48f64700246faed666040ead23e74d4fc27bf411e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67" width="25"> 
+   
+ <img src="https://img.shields.io/badge/Ary%50InDalex-FF3366?style=for-the-badge&logo=Ary%50InDalexn&logoColor=white" width="80">
+ 
+  
