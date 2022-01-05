@@ -8,7 +8,7 @@
 - 📓 Estudo no Colégio Estadual Maestro Andréa Nuzzi
 - 👩🏻‍💼 Atualmente estou trabalhando na Pado
 - 🌱 Estou aprendendo: DevOps Básicos e Circuitos Eletrônicos
-- 🦉 Já aprendi: JavaScript, HTML, CSS, Linguagem C e Circuitos Elétricos
+- 🦉 Já aprendi o básico de: JavaScript, HTML, CSS, Linguagem C e Circuitos Elétricos
 - 👩🏻‍💻 Quero me especializar em Sistemas Web
 - 🕐 Passatempo: Música, Ler e Jogar
 
