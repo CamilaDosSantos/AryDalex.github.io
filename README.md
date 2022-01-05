@@ -1,22 +1,25 @@
 # AryDalex.github.io
-<h2> Olá, Sou a Arielly! <img src="https://media4.giphy.com/media/xlcR4sYSBT34fQqApS/giphy.gif?cid=790b7611e317a8131e8a748af26afdc39a5233ed2eb79574&rid=giphy.gif&ct=g" width="50"></h2>
 
-[![Instagram: AryDalex](https://img.shields.io/badge/-AryDalex-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/arydalex/
+<h2> Olá, Sou a Arielly! <img src="https://shortcut-test2.s3.amazonaws.com/uploads/role/attachment/436271/default_Junimo.gif" width="25"></h2>
+
+### <img src="https://media.tenor.com/images/ca04fa4a620d53abb7913a936b5346e7/tenor.gif" width="50"> Um pouco sobre mim...  
+
+- 🦋 Tenho 17 anos
+- 📓 Estudo no Colégio Estadual Maestro Andréa Nuzzi
+- 👩🏻‍💼 Atualmente estou trabalhando na Pado
+- 🌱 Estou aprendendo: DevOps Básicos e Circuitos Eletrônicos
+- 🦉 Já aprendi: JavaScript, HTML, CSS, Linguagem C e Circuitos Elétricos
+- 👩🏻‍💻 Quero me especializar em Sistemas Web
+- 🕐 Passatempo: Música, Ler e Jogar
+
+<h2><img src="https://media.tenor.com/images/919fe22323b95103ba89e4e116b1594f/tenor.gif" width="25"> Links</h2>
+
+[![Instagram: AryDalex](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/arydalex/
 )](https://www.instagram.com/arydalex/)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Arielly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arielly/)](https://www.linkedin.com/in/arielly-d-alexandre-b5a3aa1a6/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arielly/)](https://www.linkedin.com/in/arielly-d-alexandre-b5a3aa1a6/)
 [![Gmail Arielly](https://img.shields.io/badge/-arielly.dalexandre.2004@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox?compose=new)
 [![GitHub AryDalex](https://img.shields.io/github/followers/AryDalex?label=follow&style=social)](https://github.com/AryDalex)
 
 
-### <img src="https://media1.tenor.com/images/bfe59958fe6d134d35fd72b118e1a138/tenor.gif?itemid=5948143" width="50"> Um pouco sobre mim...  
-
-- 📓 Estudo no Colégio Estadual Maestro Andréa Nuzzi
-- 🔭 Atualmente estou trabalhando na Pado
-- 🌱 Estou aprendendo: Linguagem C, DevOps Básicos e Circuitos Eletrônicos
-- 👯 Estou procurando colaborar ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Me pergunte sobre ...
-- 😄 Pronomes: ...
-- ⚡ Fato divertido: ...
-
 ---
+<img src="https://github-readme-stats.vercel.app/api?username=AryDalex&show_icons=true&theme=gotham" alt="AryDalex" style="width:60%;height:auto;"/>
